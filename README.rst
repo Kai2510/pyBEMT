@@ -24,6 +24,7 @@ To install the package, first ensure that the following required libraries are i
 - matplotlib
 - pandas
 - sphinx (for documentation)
+- setuptools
 
 These can be installed using the provided ``requirements.txt``,
 
